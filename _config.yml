@@ -21,7 +21,10 @@
 title: Your awesome title
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  <h2>Test Case with baseurl: ""</h2>
+  Footnote</br></br>
+
+  Test Case with baseurl: ""</br></br>
+
   Enable browser inspect mode with cmd-option-i. Go to Network tab. You will see two "file not found" errors.
   Go to Sources tab. You will find <s>/assets</s> directory that Jekyll created at the same level of /blogua07; while
   it should be under /blogua07.
